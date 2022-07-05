@@ -32,3 +32,7 @@ minikube start --memory=4096 --addons=ingress
 minikube start --network-plugin=cni --memory=4096 --addons=ingress
 kubectl create -f https://raw.githubusercontent.com/cilium/cilium/v1.6/install/kubernetes/quick-install.yaml
 ```
+
+
+
+
